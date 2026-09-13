@@ -1,1 +1,7 @@
-[]
+[
+    {
+        "name": "firstwebsite",
+        "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>My site</title>\n</head>\n<body style=\"margin:0;\">\n<div style=\"position:relative;width:1200px;min-height:1650px;background:#f01919;margin:0 auto;\">\n<h2 style=\"position:absolute;left:240px;top:80px;width:720px;height:70px;margin:0;font-family:'Poppins',Arial,sans-serif;font-size:40px;font-weight:700;font-style:normal;color:#171923;text-align:center;line-height:1.2;\">Hello!</h2>\n<p style=\"position:absolute;left:304px;top:224px;width:635px;height:120px;margin:0;font-family:'Arial',Arial,sans-serif;font-size:35px;font-weight:400;font-style:normal;color:#0f0f0f;text-align:center;line-height:1.5;\">This is the first website of ExtraTag ArtSiter</p>\n</div>\n</body>\n</html>",
+        "updated_at": "2026-09-13T08:19:54.488838Z"
+    }
+]
